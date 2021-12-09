@@ -6,6 +6,6 @@ This github page contains:
 - Render template (scrape_mars.py) that 
 - index.html that displays all of scraped data
 
-## Screenshot of your final application
+## Screenshot of final application
 
 <img src="mars.png" width=100%>
